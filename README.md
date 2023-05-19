@@ -6,6 +6,7 @@
 ### Lenguajes de programcion
 </br>
 [![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+</br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ### Desarrollo web
@@ -14,6 +15,7 @@
 ### Tecnologias
 </br>
 <!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
+</br>
 [![MySQL](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)]()
 
 ### Plataformas de desarrollo utilizadas
