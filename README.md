@@ -17,6 +17,8 @@ I'm a Junior Sofwate Developer in Barselona, i am currenly studying a Higher Lev
 | BBDD  | [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]() [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() |
 | Other Technologies | [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()|
 
-## Projects
+## School Projects
 
-[<img src="https://github.com/javier-morante/javier-morante/blob/main/logoCopernicJobs.png" alt="copernic jobs"/>](https://github.com/javier-morante/copernicjobs)
+[![copernic jobs](./logoCopernicJobs.png)](https://github.com/javier-morante/copernicjobs)
+
+[![exchange](./logoExchange.png)](https://github.com/javier-morante/exchange)
