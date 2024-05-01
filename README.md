@@ -19,6 +19,4 @@ I'm a Junior Sofwate Developer in Barselona, i am currenly studying a Higher Lev
 
 ## School Projects
 
-[![copernic jobs](./logoCopernicJobs.png)](https://github.com/javier-morante/copernicjobs)
-
-[![exchange](./logoExchange.png)](https://github.com/javier-morante/exchange)
+[![copernic jobs](./logoCopernicJobs.png)](https://github.com/javier-morante/copernicjobs) [![exchange](./logoExchange.png)](https://github.com/javier-morante/exchange)
